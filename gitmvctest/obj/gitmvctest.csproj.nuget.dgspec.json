@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sathiyan-1\\source\\repos\\gitmvctest\\gitmvctest\\gitmvctest.csproj": {}
+    "C:\\Users\\Sathiyan-1\\undotest\\test-mvc-gitmethod\\gitmvctest\\gitmvctest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sathiyan-1\\source\\repos\\gitmvctest\\gitmvctest\\gitmvctest.csproj": {
+    "C:\\Users\\Sathiyan-1\\undotest\\test-mvc-gitmethod\\gitmvctest\\gitmvctest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sathiyan-1\\source\\repos\\gitmvctest\\gitmvctest\\gitmvctest.csproj",
+        "projectUniqueName": "C:\\Users\\Sathiyan-1\\undotest\\test-mvc-gitmethod\\gitmvctest\\gitmvctest.csproj",
         "projectName": "gitmvctest",
-        "projectPath": "C:\\Users\\Sathiyan-1\\source\\repos\\gitmvctest\\gitmvctest\\gitmvctest.csproj",
+        "projectPath": "C:\\Users\\Sathiyan-1\\undotest\\test-mvc-gitmethod\\gitmvctest\\gitmvctest.csproj",
         "packagesPath": "C:\\Users\\Sathiyan-1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sathiyan-1\\source\\repos\\gitmvctest\\gitmvctest\\obj\\",
+        "outputPath": "C:\\Users\\Sathiyan-1\\undotest\\test-mvc-gitmethod\\gitmvctest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sathiyan-1\\AppData\\Roaming\\NuGet\\NuGet.Config",
